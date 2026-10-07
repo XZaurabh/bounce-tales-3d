@@ -1,0 +1,6 @@
+{
+  "name": "Bounce Tales 3D",
+  "description": "An original nostalgic 3D ball platforming adventure with rich physics, 8 unique worlds, 80 handcrafted levels, secrets, collectibles, and dynamic mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
